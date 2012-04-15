@@ -3,3 +3,4 @@
 twitter: @coddledegg
 github: coddledegg
 site: http://coddledegg.github.com/
+blog:http://blog.coddledegg.net/
